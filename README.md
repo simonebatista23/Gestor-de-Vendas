@@ -4,8 +4,6 @@ Sistema web simples para gestão de vendas, desenvolvido com PHP, HTML, CSS, Jav
 
 ## 🌐 Demonstração
 
-## 🌐 Demonstração
-
 Acesse o sistema ao vivo [aqui](https://codelivre1.websiteseguro.com/) para cadastrar vendas e visualizar os registros em tempo real com uma interface limpa e responsiva.
 
 ## 🧩 Funcionalidades
