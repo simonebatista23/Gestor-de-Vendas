@@ -1,6 +1,6 @@
 # 📦 Gestor de Vendas
 
-Sistema web simples para gestão de vendas, desenvolvido com PHP, HTML, CSS, JavaScript e Bootstrap. 
+Sistema web simples para gestão de vendas, desenvolvido com PHP, HTML, CSS, JavaScript e Bootstrap. Ideal para pequenos negócios ou como base para projetos de estudo.
 
 ## 🌐 Demonstração
 
